@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7d8faf96.chunk.css",
+    "main.js": "/static/js/main.b5b8ec42.chunk.js",
+    "main.js.map": "/static/js/main.b5b8ec42.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3084191c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3084191c.js.map",
+    "static/css/2.1ca50200.chunk.css": "/static/css/2.1ca50200.chunk.css",
+    "static/js/2.01a6b52e.chunk.js": "/static/js/2.01a6b52e.chunk.js",
+    "static/js/2.01a6b52e.chunk.js.map": "/static/js/2.01a6b52e.chunk.js.map",
+    "static/js/3.de5e96cd.chunk.js": "/static/js/3.de5e96cd.chunk.js",
+    "static/js/3.de5e96cd.chunk.js.map": "/static/js/3.de5e96cd.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.1ca50200.chunk.css.map": "/static/css/2.1ca50200.chunk.css.map",
+    "static/css/main.7d8faf96.chunk.css.map": "/static/css/main.7d8faf96.chunk.css.map",
+    "static/js/2.01a6b52e.chunk.js.LICENSE.txt": "/static/js/2.01a6b52e.chunk.js.LICENSE.txt",
+    "static/media/intro.css": "/static/media/Web 1920 – 1@2x.87bae118.png",
+    "static/media/hadoop.0ae74348.png": "/static/media/hadoop.0ae74348.png",
+    "static/media/node.109e80dc.png": "/static/media/node.109e80dc.png",
+    "static/media/index.css": "/static/media/roboto-latin-900italic.cb5ad999.woff2",
+    "static/media/terraform.a6b18dcc.png": "/static/media/terraform.a6b18dcc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3084191c.js",
+    "static/css/2.1ca50200.chunk.css",
+    "static/js/2.01a6b52e.chunk.js",
+    "static/css/main.7d8faf96.chunk.css",
+    "static/js/main.b5b8ec42.chunk.js"
+  ]
+}
